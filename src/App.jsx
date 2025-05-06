@@ -192,6 +192,7 @@ import ComponentOne from "./components/ComponentOne";
 import ComponentTwo from "./components/ComponentTwo";
 import ExampleOne from "./components/ExampleTwo";
 import ExampleTwo from "./components/ExampleTwo";
+import ExampleThree from "./components/ExampleThree";
 // const App = () => {
 //   const [count, setCount] = useState(0);
 //   return (
@@ -205,7 +206,8 @@ import ExampleTwo from "./components/ExampleTwo";
 const App = () => {
   return (
     <div>
-      <h1><ExampleTwo /> </h1>
+      <h1><ExampleThree /></h1>
+      
     </div>
   )
 }
